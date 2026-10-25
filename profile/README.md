@@ -1,6 +1,6 @@
 # C Berman Associates
 
-![C Berman Associates logo](cba_icon.png)
+![C Berman Associates logo](/cba_icon.png)
 
 > **OUR DEALERS MAKE MORE MONEY NOW!**
 
