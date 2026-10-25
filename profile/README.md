@@ -82,6 +82,7 @@ Are you a Dealer interested in signing up to sell warranties? Get in touch today
 Luxurious vehicle service contracts, appearance protection, and other ancillary service contracts.
 
 [![CARS Protection Plus](/partners/CARS-logo.png)](https://carsprotectionplus.com/)
+
 Liberty Shield is proudly administered by our partner, [CARS Protection Plus](https://carsprotectionplus.com/).
 
 [![Liberty Shield Ad](/advertisements/Liberty-Shield-Ad.jpg)](https://libertyautousa.com/)
