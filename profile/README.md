@@ -4,7 +4,7 @@
 
 > **OUR DEALERS MAKE MORE MONEY NOW!**
 
-![C Berman Associates Team](CBATeamCurtains.jpg)
+![C Berman Associates Team](/CBATeamCurtains.jpg)
 
 ## About Us
 For over 25 years, C Berman Associates have been serving Dealers and customers alike. We are a highly trusted name in the industry and proudly serve over 2,000 automotive Dealers all around the country.
@@ -15,7 +15,7 @@ For over 25 years, C Berman Associates have been serving Dealers and customers a
 
 ## Our Services
 
-![Every F&I Product And Service Ad](advertisements/F&I-Ad.jpg)
+![Every F&I Product And Service Ad](/advertisements/F&I-Ad.jpg)
 
 * Vehicle Service Contracts
 * GAP
@@ -53,7 +53,7 @@ We work hard every day to earn the respect of our business partners.  We appreci
 We do not want to walk ahead of you, but we do not want to walk behind you either.  We just want to walk with you and attain our goals together.  Let us work with you!  You will love us as everyone else does!
 
 ## Advertisements/News
-[![25th Anniversary of CBA](advertisements/Automotive-News-jan-2026-25-years.jpg)](https://cbamoney.com/)
+[![25th Anniversary of CBA](/advertisements/Automotive-News-jan-2026-25-years.jpg)](https://cbamoney.com/)
 Our company frequently advertises in Automotive News magazine. We've also advertised in UCD magazine.
 
 * [View All Advertisements](https://cbamoney.com/testimonials-advertisements.html)
@@ -77,22 +77,22 @@ Are you a Dealer interested in signing up to sell warranties? Get in touch today
 ## Brands
 
 ### Liberty Shield
-[![Liberty Shield logo](brands/liberty-shield-logo.png)](https://libertyautousa.com/)
+[![Liberty Shield logo](/brands/liberty-shield-logo.png)](https://libertyautousa.com/)
 
 Luxurious vehicle service contracts, appearance protection, and other ancillary service contracts.
 
-[![CARS Protection Plus "CARS"](partners/CARS-logo.png)](https://carsprotectionplus.com/)
+[![CARS Protection Plus "CARS"](/partners/CARS-logo.png)](https://carsprotectionplus.com/)
 Liberty Shield is proudly administered by our partner, [CARS Protection Plus](https://carsprotectionplus.com/).
 
-[![Liberty Shield Ad](advertisements/Liberty-Shield-Ad.jpg)](https://libertyautousa.com/)
+[![Liberty Shield Ad](/advertisements/Liberty-Shield-Ad.jpg)](https://libertyautousa.com/)
 
 * [Visit Liberty Shield](https://libertyautousa.com/)
 
 ### USA Car Coverage
 
-[![USA Car Coverage logo](brands/usacc-logo.png)](https://usacc.com/)
+[![USA Car Coverage logo](/brands/usacc-logo.png)](https://usacc.com/)
 
-[![Gold Standard logo](partners/gold-standard-logo.png)](https://www.goldstandardautomotive.com/)
+[![Gold Standard logo](/partners/gold-standard-logo.png)](https://www.goldstandardautomotive.com/)
 USA Car Coverage is proudly administered by our partner, [Gold Standard](https://www.goldstandardautomotive.com/).
 
 > Mechanical Breakdown Coverage For Your Protection.
@@ -105,12 +105,12 @@ With a Vehicle Service Contract from USA Car Coverage, you are protected against
 * Trip Interruption
 * Transferability
 
-[![USACC Ad](advertisements/USACC-Ad.jpg)](https://usacc.com/)
+[![USACC Ad](/advertisements/USACC-Ad.jpg)](https://usacc.com/)
 
 * [Visit USA Car Coverage](https://usacc.com/)
 
 ### Perfect Warranty
-[![Perfect Warranty logo](brands/perfect-warranty-logo.png)](https://www.perfectwarranty.com/)
+[![Perfect Warranty logo](/brands/perfect-warranty-logo.png)](https://www.perfectwarranty.com/)
 
 > Your Program. Your Money. It's That Simple.
 
@@ -118,7 +118,7 @@ Vivre Perfect Warranty is a Dealer Obligor Program which offers dealers the abil
 
 We make it easy for you. We provide all of the required materials and documents, as well as contractual liability insurance. Everything you need to sell the service contract programs your customers are looking for. Our participation, training, and support will help you achieve your goals. You can count on us to help you grow your business.
 
-[![Perfect Warranty Ad](advertisements/Perfect-Warranty-Ad.jpg)](https://www.perfectwarranty.com/)
+[![Perfect Warranty Ad](/advertisements/Perfect-Warranty-Ad.jpg)](https://www.perfectwarranty.com/)
 
 * [Visit Perfect Warranty](https://www.perfectwarranty.com/)
 
