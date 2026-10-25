@@ -94,6 +94,7 @@ Liberty Shield is proudly administered by our partner, [CARS Protection Plus](ht
 [![USA Car Coverage logo](/brands/usacc-logo.png)](https://usacc.com/)
 
 [![Gold Standard logo](/partners/gold-standard-logo.png)](https://www.goldstandardautomotive.com/)
+
 USA Car Coverage is proudly administered by our partner, [Gold Standard](https://www.goldstandardautomotive.com/).
 
 > Mechanical Breakdown Coverage For Your Protection.
